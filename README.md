@@ -6,7 +6,7 @@
 
 _Solo project_
 
-This project is for educational porpuses only.
+This project is for educational purposes only.
 
 ## Project features
 
