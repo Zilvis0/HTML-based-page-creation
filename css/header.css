@@ -1,0 +1,22 @@
+header{
+    background-color: aquamarine;
+}
+
+.header-wrapper{
+    background-color: #1d2729;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    width: auto;
+    height: 100vh;
+
+}
+
+.header-left-side{
+    display: flex;
+    justify-content: left;
+}
+
+.header-logo {
+    color: rgb(103, 179, 41);
+}
