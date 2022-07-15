@@ -2,7 +2,7 @@ header{
     background-color: aquamarine;
 }
 
-.header-wrapper{
+.landing-wrapper{
     background-color: #1d2729;
     display: flex;
     justify-content: space-between;
@@ -12,11 +12,11 @@ header{
 
 }
 
-.header-left-side{
+.landing-left-side{
     display: flex;
     justify-content: left;
 }
 
-.header-logo {
+.landing-logo {
     color: rgb(103, 179, 41);
 }
